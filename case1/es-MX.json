@@ -1,0 +1,4 @@
+{
+  "stringkey1" : "This is case1, meant to test on-demand importing of already translated files.",
+  "stringkey2" : "Wanting to see if it overwrites already translated files."
+}

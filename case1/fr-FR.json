@@ -1,4 +1,4 @@
 {
-  "stringkey1":"fr-FR - translated string here.",
-  "stringkey2":"fr-FR - second translated string here"
+  "stringkey1" : "Il s'agit du cas 1, destiné à tester l'importation à la demande de fichiers déjà traduits.",
+  "stringkey2" : "Je veux voir si cela écrase des fichiers déjà traduits."
 }
